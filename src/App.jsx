@@ -12,6 +12,7 @@ import JobBridge_ss from "./assets/jobbridge_ss.png";
 import Dummy_ss from "./assets/dummy_ss.png";
 import Mail from "./assets/mail.png";
 
+
 function App() {
   const openResume = () => {
     window.open(" /Rajan-Subedi-cv.pdf", "_blank");
